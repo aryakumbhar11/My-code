@@ -1,16 +1,10 @@
 # My-code
-C language practical program.2
+C language practical program.1
 #include<stdio.h>
-
 int main() 
 {
-int a=10, b=20, c=30;
-int sum;
-
-sum=a+b+c;
-
-printf("first Number= %d\n", a) ;
-printf("second Number= %d\n", b) ;
-printf("third Number= %d\n", c) ;
-printf("sum=%d", sum) ;
+printf("Name:Arya\n") ;
+printf("Roll No:69\n") ;
+printf("Class:SY\n") ;
+printf("Division:C") ;
 }
