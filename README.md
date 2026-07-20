@@ -1,13 +1,11 @@
 # My-code
 C language practical program
-#include <stdio.h>
+#include<stdio.h>
 
-int main()
+int main() 
 {
-    printf("Name: Arya\n");
-    printf("Roll No: 1\n");
-    printf("Class: SY\n");
-    printf("Division: A");
-
-    return 0;
-}
+printf("Name= Arya\n");
+printf("Roll No= 69\n");
+printf("Class= SY\n");
+printf("Division= C");
+{
