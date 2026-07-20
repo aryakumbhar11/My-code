@@ -1,5 +1,5 @@
 # My-code
-C language practical program
+C language practical program.2
 #include<stdio.h>
 
 int main() 
